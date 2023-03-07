@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         d Learn Reactd
+         Learn Reactd test
         </a>
       </header>
     </div>
